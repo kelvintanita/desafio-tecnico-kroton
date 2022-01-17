@@ -1,0 +1,6 @@
+Which of the following are true regarding good URI design?
+
+
+URIs should never be changed.
+URIs should be short in length.
+HTTP verbs should be used instead of operation names in URIs.

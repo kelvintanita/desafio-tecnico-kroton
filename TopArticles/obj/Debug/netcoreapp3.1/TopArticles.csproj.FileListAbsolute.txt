@@ -1,0 +1,17 @@
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\TopArticles\bin\Debug\netcoreapp3.1\TopArticles.exe
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\TopArticles\bin\Debug\netcoreapp3.1\TopArticles.deps.json
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\TopArticles\bin\Debug\netcoreapp3.1\TopArticles.runtimeconfig.json
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\TopArticles\bin\Debug\netcoreapp3.1\TopArticles.runtimeconfig.dev.json
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\TopArticles\bin\Debug\netcoreapp3.1\TopArticles.dll
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\TopArticles\bin\Debug\netcoreapp3.1\TopArticles.pdb
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\TopArticles\bin\Debug\netcoreapp3.1\Flurl.dll
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\TopArticles\bin\Debug\netcoreapp3.1\Flurl.Http.dll
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\TopArticles\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\TopArticles\obj\Debug\netcoreapp3.1\TopArticles.csproj.AssemblyReference.cache
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\TopArticles\obj\Debug\netcoreapp3.1\TopArticles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\TopArticles\obj\Debug\netcoreapp3.1\TopArticles.AssemblyInfoInputs.cache
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\TopArticles\obj\Debug\netcoreapp3.1\TopArticles.AssemblyInfo.cs
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\TopArticles\obj\Debug\netcoreapp3.1\TopArticles.csproj.CoreCompileInputs.cache
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\TopArticles\obj\Debug\netcoreapp3.1\TopArticles.dll
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\TopArticles\obj\Debug\netcoreapp3.1\TopArticles.pdb
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\TopArticles\obj\Debug\netcoreapp3.1\TopArticles.genruntimeconfig.cache

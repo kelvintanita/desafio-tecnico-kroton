@@ -1,0 +1,14 @@
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\AncestralNames\bin\Debug\netcoreapp3.1\AncestralNames.exe
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\AncestralNames\bin\Debug\netcoreapp3.1\AncestralNames.deps.json
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\AncestralNames\bin\Debug\netcoreapp3.1\AncestralNames.runtimeconfig.json
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\AncestralNames\bin\Debug\netcoreapp3.1\AncestralNames.runtimeconfig.dev.json
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\AncestralNames\bin\Debug\netcoreapp3.1\AncestralNames.dll
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\AncestralNames\bin\Debug\netcoreapp3.1\AncestralNames.pdb
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\AncestralNames\obj\Debug\netcoreapp3.1\AncestralNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\AncestralNames\obj\Debug\netcoreapp3.1\AncestralNames.AssemblyInfoInputs.cache
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\AncestralNames\obj\Debug\netcoreapp3.1\AncestralNames.AssemblyInfo.cs
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\AncestralNames\obj\Debug\netcoreapp3.1\AncestralNames.csproj.CoreCompileInputs.cache
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\AncestralNames\obj\Debug\netcoreapp3.1\AncestralNames.dll
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\AncestralNames\obj\Debug\netcoreapp3.1\AncestralNames.pdb
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\AncestralNames\obj\Debug\netcoreapp3.1\AncestralNames.genruntimeconfig.cache
+D:\Kelvin\desenvolvimento\Kroton\DesafioTecnico\DesafioTecnico\AncestralNames\obj\Debug\netcoreapp3.1\AncestralNames.csproj.AssemblyReference.cache
