@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AncestralNames", "AncestralNames\AncestralNames.csproj", "{E855E6EB-EBFC-4E2C-8F64-11FFCC8DE138}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AncestralNames", "AncestralNames\AncestralNames.csproj", "{E855E6EB-EBFC-4E2C-8F64-11FFCC8DE138}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CustomersCreditLimitQuery", "CustomersCreditLimitQuery", "{45B38DB3-95A0-4059-822C-6D56E41DB895}"
 	ProjectSection(SolutionItems) = preProject
@@ -20,7 +20,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GoodURIDesign", "GoodURIDes
 		Question4.txt = Question4.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopArticles", "TopArticles\TopArticles.csproj", "{AE6C8838-C2E6-4500-9D48-59EE82BC5C48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopArticles", "TopArticles\TopArticles.csproj", "{AE6C8838-C2E6-4500-9D48-59EE82BC5C48}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SystemDesign_FlashSales", "SystemDesign_FlashSales", "{87228527-7D3D-4C37-B482-03BF16E02C0D}"
+	ProjectSection(SolutionItems) = preProject
+		System Design - Flash Sales.pdf = System Design - Flash Sales.pdf
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
